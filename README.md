@@ -97,7 +97,7 @@ Saya menggunakan **roadmap belajar** dengan target menyelesaikan semua materi se
 ---
 
 ## 📄 Lisensi
-Proyek ini berada di bawah lisensi **MIT License**.  
+Proyek ini berada di bawah lisensi **GPL-3.0 license**.  
 Silakan gunakan, modifikasi, dan bagikan dengan mencantumkan atribusi.
 
 ---
